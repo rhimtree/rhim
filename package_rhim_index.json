@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "rhim",
+      "maintainer": "RHIM",
+      "websiteURL": "",
+      "email" : "rhimtree@naver.com",
+      "platforms":
+      [
+        {
+          "name": "ARCCOM",
+          "architecture": "samd",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/robotics-masters/mm1-hat-arduino/raw/master/custom_board/RoboHat-0.0.12.zip",
+          "archiveFileName": "RoboHat-0.0.12.zip",
+          "checksum": "SHA-256:dbafe2bc89acc89ac0d9ea4e4b7f819b83acd75bb751335f2422d4b38ff69317",
+          "size": "2381077",
+          "boards": [
+            {
+              "name": "Robo HAT MM1"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
