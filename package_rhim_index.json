@@ -13,13 +13,13 @@
           "architecture": "samd",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/robotics-masters/mm1-hat-arduino/raw/master/custom_board/RoboHat-0.0.12.zip",
-          "archiveFileName": "RoboHat-0.0.12.zip",
+          "url": "hhttps://github.com/rhimtree/rhim/RHIM-0.0.1.zip",
+          "archiveFileName": "RHIM-0.0.1.zip",
           "checksum": "SHA-256:dbafe2bc89acc89ac0d9ea4e4b7f819b83acd75bb751335f2422d4b38ff69317",
           "size": "2381077",
           "boards": [
             {
-              "name": "Robo HAT MM1"
+              "name": "ARCCOM"
             }
           ],
           "toolsDependencies":
