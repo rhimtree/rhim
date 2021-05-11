@@ -8,7 +8,8 @@ Repository for storing Arduino related files and custom board definition.
 Copy and paste the following URL into the File > Preferences > "Additional Boards Manager" textbox.  
 <code>
 https://raw.githubusercontent.com/rhimtree/rhim/package_rhimtree_index.json
-</code>
+</code>  
+
 The latest version is 0.0.1
 
 Make sure to also install the Arduino SAMD Library at the same time.
