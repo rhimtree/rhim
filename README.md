@@ -21,6 +21,5 @@ Boards > "Add board definition" > Search for "SAMD" > Install Arduino SAMD Libra
 # Serial Ports
 
 A number of predefined serial ports are in the Robo HAT MM1 M4 boards.
-
-    Serial - USB
-    Serial1 - Wizfi360 Serial Ports (SERCOM5)
+- Serial - USB
+- Serial1 - Wizfi360 Serial Ports (SERCOM5)
