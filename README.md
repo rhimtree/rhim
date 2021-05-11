@@ -7,7 +7,7 @@ Repository for storing Arduino related files and custom board definition.
 ## Arduino IDE
 Copy and paste the following URL into the File > Preferences > "Additional Boards Manager" textbox.  
 <code>
-https://raw.githubusercontent.com/rhimtree/rhim/package_rhimtree_index.json
+https://raw.githubusercontent.com/rhimtree/rhim/blob/master/package_rhimtree_index.json
 </code>  
 
 The latest version is 0.0.1
