@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/rhimtree/rhim/blob/master/ArcCOM-0.0.1.zip",
           "archiveFileName": "ArcCOM-0.0.1.zip",
-          "checksum": "SHA-256:f05f147ebec314927910502ec00e6b8650bc4057cd1098834377176baf0d5951",
-          "size": "8210226",
+          "checksum": "SHA-256:58298751ff213d046df4db5b4e26bfd343d9f73022089fa5bc1175d4c09c8ab8",
+          "size": "3830165",
           "boards": [
             {
               "name": "ArcCom"
