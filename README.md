@@ -13,7 +13,7 @@ The latest version is 0.0.1
 
 Make sure to also install the Arduino SAMD Library at the same time.
 
-Boards > "Add board definition" > Search for "RacCOM" > Install ArcCOM Library
+Boards > "Add board definition" > Search for "AacCOM" > Install ArcCOM Library
 
 Boards > "Add board definition" > Search for "SAMD" > Install Arduino SAMD Library
 
